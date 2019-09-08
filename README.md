@@ -9,9 +9,9 @@ link (está caido)
 ## Datasets para cruzar
 
 ## TODO
-- [ ]Conseguir o averiguar si existe dataset patentes
-- [x]Concatenar todos los files
-- [ ]usar fechas como index?
-- [x]Desdoblar dataset recuperos
+- [ ] Conseguir o averiguar si existe dataset patentes
+- [x] Concatenar todos los files
+- [ ] usar fechas como index?
+- [x] Desdoblar dataset recuperos
 	- aquellos que fueron recuperados agregar columna con tiempo de recuperación
 
