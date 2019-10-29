@@ -16,17 +16,25 @@ link https://datos.gob.ar/dataset/justicia-robos-recuperos-autos
 ## TODO
 - [x] Conseguir o averiguar si existe dataset patentes
 - [x] Concatenar todos los files
-- [ ] usar fechas como index?
 - [x] Desdoblar dataset recuperos
 	- aquellos que fueron recuperados agregar columna con tiempo de recuperación
 - [x] Curar datasets para averiguar si tenemos robados y recuperados en este periodo
 - [ ] EDA (IN PROGRESS)
 	- Conteos, distribuciones et al
+		- Hecho: Año, mes, día de la semana
+		- To do: año de patentamiento
 	- Mapas (falta relativizar el n de robos a algo)
+		- provincia abs, provincia/patentados 
+		- (opc: /pobl, robados que se patentaron en 18/19)
 	- robos por año de patentamiento?
-- [ ] RegEx de tipo, marca y modelo de auto
+- [ ] RegEx de tipo (agus) , marca y modelo de auto (buscar x modelos más vendidos)
 - [ ] Clasificador para predecir recuperados
+	- Mejorar el tema del desbalanceo en el train test split
+	- Feature selection?
+	- ver qué modelo / probar modelos.
 - [ ] Regresor para predecir tiempo hasta recuperado
+	- Hacer stratify en traintest split
+- [ ] Conseguir dataset parque automotor por marca
 
 ## NOTEBOOKS
 	- EDA
