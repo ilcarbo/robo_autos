@@ -32,6 +32,8 @@ link https://datos.gob.ar/dataset/justicia-robos-recuperos-autos
 	- Mejorar el tema del desbalanceo en el train test split
 	- Feature selection?
 	- ver qué modelo / probar modelos.
+    - Agregar día de la semana como feature dummie
+    - pasar fecha a dia (1-365) como feature continua
 - [ ] Regresor para predecir tiempo hasta recuperado
 	- Hacer stratify en traintest split
 - [ ] Conseguir dataset parque automotor por marca
