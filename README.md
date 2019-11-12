@@ -27,7 +27,7 @@ link https://datos.gob.ar/dataset/justicia-robos-recuperos-autos
 		- provincia abs, provincia/patentados 
 		- (opc: /pobl, robados que se patentaron en 18/19)
 	- robos por año de patentamiento?
-- [ ] RegEx de tipo (agus) , marca y modelo de auto (buscar x modelos más vendidos)
+- [x] RegEx de tipo (agus) , marca y modelo de auto (buscar x modelos más vendidos)
 - [ ] Clasificador para predecir recuperados
 	- Mejorar el tema del desbalanceo en el train test split
 	- Feature selection?
