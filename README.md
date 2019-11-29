@@ -15,7 +15,7 @@ Hicimos modelos predictivos de recuperación y tiempo de recuperación para los 
 
 
 ## TODO
-- [] Hacer más prolijo y organizar
+- [ ] Hacer más prolijo y organizar
 
 ## NOTEBOOKS
   * EDA_FINAL --> Análisis exploratorio de datos sobre robos y recuperos
